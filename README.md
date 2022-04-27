@@ -153,6 +153,5 @@ You can find me on:
   [![Messenger](https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white)](https://m.me/3DGARXD) &nbsp;
   [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/pkqwGSfcrS) &nbsp;
   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ejlc2001@gmail.com "Gmail") &nbsp;
-  [![Call Me](https://img.shields.io/badge/%F0%9F%93%9E%20Call%20Me-fff?style=for-the-badge&logoColor=white)](tel:+573108040812 "Call Me") &nbsp;
   
 </details>
