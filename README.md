@@ -13,7 +13,7 @@ Something curious about me is that I like anime 🔝and video games 🎮
 ```javascript
   const birthDate = new Date("11/23/2001").getTime();
   const currDate = new Date().getTime();
-  const age = Math.floor((birthDate - currDate) / 31536000000);
+  const age = Math.floor((currDate - birthDate) / 31536000000);
   const moreAboutMe = {
     locatedIn: {
       country: "Colombia",
