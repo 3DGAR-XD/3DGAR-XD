@@ -8,7 +8,9 @@ A Junior Web Developer 👨‍💻
 
 Currently located in **BOGOTA, COLOMBIA** 🌎 🇨🇴
 
-Something curious about me is that I like anime 🔝and video games 🎮
+Something curious about me:
+
+/* I like anime 🔝and video games 🎮 */
 
 ```javascript
   const birthDate = new Date("11/23/2001").getTime();
@@ -21,12 +23,12 @@ Something curious about me is that I like anime 🔝and video games 🎮
     },
     age: `${age} years old`,
     techStack: {
-      frontEnd: ["HTML", "CSS", "Javascript", "Jquery","Bootstrap"],
+      frontEnd: ["HTML", "CSS", "Javascript", "Vue 3"],
       backend: ["PHP"],
       databases: ["MySql"],
       versionControl: ["Git"]
     },
-    tools: ["VsCode", "Photoshop", "Debian", "Notepad ++"],
+    tools: ["VsCode", "Photoshop", "Debian"],
     role: ["Junior Frontend Developer", "Junior Developer"],
     nextGoal: "Go to university 🤩"
   }
@@ -51,21 +53,16 @@ You can find me on:
   
   ### Technologies 🛠️
     
-  ![HTML](https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26 "HTML") &nbsp;
-  ![CSS](https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6 "CSS") &nbsp;
-  ![JavaScript](https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E "JavaScript") &nbsp;
+  ![Basic Web Stack](https://img.shields.io/badge/Basic%20Web%20Stack-282C34?logo=javascript&logoColor=F7DF1E "HTML, CSS, Javascript") &nbsp;
+  ![Vue 3](https://img.shields.io/badge/Vue%203-282C34?logo=vuedotjs&logoColor=61DAFB "Vue 3") &nbsp;
   ![PHP](https://img.shields.io/badge/PHP-282C34?logo=php&logoColor=777BB4 "PHP") &nbsp;
   ![MySql](https://img.shields.io/badge/MySql-282C34?logo=mysql&logoColor=4479A1 "MySql") &nbsp;
-  ![Librerias Javascript](https://img.shields.io/badge/Librerías%20JavaSript-282C34?logo=jquery&logoColor=0769AD "Librerias JavaScript") &nbsp;
-  ![Frameworks CSS](https://img.shields.io/badge/Frameworks%20CSS-282C34?logo=bootstrap&logoColor=7952B3 "Frameworks CSS") &nbsp;
+  ![Frameworks CSS](https://img.shields.io/badge/Frameworks%20CSS-282C34?logo=bootstrap&logoColor=7952B3 "Bootstrap") &nbsp;
   ![Git](https://img.shields.io/badge/Git-282C34?logo=git&logoColor=F05032 "Git") &nbsp;
   
   
   ### Software 👨‍💻
  
-  ![Atom Editor](https://img.shields.io/badge/Atom%20Editor-282C34?logo=atom&logoColor=66595C "Atom Editor") &nbsp;
-  ![Notepad ++](https://img.shields.io/badge/Notepad%20++-282C34?logo=notepad%2B%2B&logoColor=90E59A "Notepad ++") &nbsp;
-  ![Sublime Text](https://img.shields.io/badge/Sublime%20Text-282C34?logo=sublime-text&logoColor=FF9800 "Sublime Text") &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-282C34?logo=visual%20studio%20code&logoColor=007ACC "Visual Studio Code") &nbsp;
   ![Audacity](https://img.shields.io/badge/Audacity-282C34?logo=Audacity&logoColor=00C "Audacity") &nbsp;
   ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-282C34?logo=Adobe%20Photoshop&logoColor=31A8FF "Adobe Photoshop") &nbsp;
@@ -82,9 +79,8 @@ You can find me on:
   <summary> I would like to learn ✍️ </summary>
   
   ### Technologies 🛠️
-  
-  ![Frameworks Javascript](https://img.shields.io/badge/Frameworks%20Javascript-282C34?logo=react&logoColor=61DAFB "Frameworks Javascript") &nbsp;
-  ![Node Js](https://img.shields.io/badge/Node%20Js-282C34?logo=node.js&logoColor=339933 "Node Js") &nbsp;
+
+  ![React](https://img.shields.io/badge/React-282C34?logo=react&logoColor=61DAFB "React") &nbsp;  
   ![Mongo Db](https://img.shields.io/badge/Mongo%20Db-282C34?logo=mongodb&logoColor=47A248 "Mongo Db") &nbsp;
   ![Python](https://img.shields.io/badge/Python-282C34?logo=python&logoColor=3776AB "Python") &nbsp;
   ![ASP.NET](https://img.shields.io/badge/ASP.NET-282C34?logo=dotnet&logoColor=512BD4 "ASP.NET") &nbsp;
@@ -123,7 +119,6 @@ You can find me on:
   
   ![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=3DGAR-XD)
   
-  
   ![Github Stats](https://github-readme-stats.vercel.app/api?username=3DGAR-XD)
   
   ![Profile Views](https://komarev.com/ghpvc/?username=3DGAR-XD&style=for-the-badge)
@@ -138,8 +133,7 @@ You can find me on:
   #### These are some: 
   
   - The creation of ideas, names and desings.
-  - I am a bit introverted, but it is not a serious problem.
-
+  - Consufion in the implementation of new features.
 </details>
 
 <details>
@@ -148,10 +142,7 @@ You can find me on:
   If after all you decide to contact me for a project, you can do it by some of these links.
   
   [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](http://wa.me/+573108040812) &nbsp;
-  [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/EJLC2311) &nbsp;
-  [![Skype](https://img.shields.io/badge/Skype-00AFF0?style=for-the-badge&logo=skype&logoColor=white)](https://join.skype.com/invite/muyh8eLVyidv) &nbsp;
   [![Messenger](https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white)](https://m.me/3DGARXD) &nbsp;
-  [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/pkqwGSfcrS) &nbsp;
   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ejlc2001@gmail.com "Gmail") &nbsp;
   
 </details>
